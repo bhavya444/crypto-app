@@ -7,6 +7,7 @@ Displays the current value of Crypto-Currencies like Bitcoin, Dash and  Rutheneu
 
 # Initial Requirements
 Elctron requires Node.js 4.0 or higher to run.
+* npm install
 
 # Installation
 ## for use in npm scripts 
